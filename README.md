@@ -47,7 +47,7 @@
     <th></th>
     <th></th>
     <th>پایگاه داده پیشرفته</th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms" >الگوریتم پیشرفته دکتر رضوی</th>
+    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms" >الگوریتم پیشرفته<br>دکتر رضوی</th>
     <th>چهارشنبه</th>
   </tr>
 </table>
