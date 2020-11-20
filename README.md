@@ -14,11 +14,11 @@
 
 
 # گروه ها
--1. G-A01
-    -1.[_AdvAlg-05_بهناز حسن بيگي](https://github.com/bahssanbeygi)
-    -2.[_AdvAlg-28_نرجس ميرسالاري](https://github.com/mirsalarinarjes)
-    -3.[_AdvAlg-06_آرزو درويشي](https://github.com/arezoo-drv)
-    -4.[_AdvAlg-03_ريحانه بهمني](https://github.com/mahyabahmani)
+ 1.G-A01
+    1.[_AdvAlg-05_بهناز حسن بيگي](https://github.com/bahssanbeygi)
+    2.[_AdvAlg-28_نرجس ميرسالاري](https://github.com/mirsalarinarjes)
+    3.[_AdvAlg-06_آرزو درويشي](https://github.com/arezoo-drv)
+    4.[_AdvAlg-03_ريحانه بهمني](https://github.com/mahyabahmani)
 ------------------
 ## Winter Semester Courses 1399/2020
 
