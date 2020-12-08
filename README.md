@@ -14,7 +14,7 @@
 
 # تمرین ها
 1. [G-A03]
-    1.Edmonds-karp
+    1. [Edmonds-karp]
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
