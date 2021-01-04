@@ -3,8 +3,7 @@
 ### بهناز حسن بیگی
  
 ---
-- [github](https://github.com/bahssanbeygi)
-- [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
+- [github](https://github.com/hamidghaffarii)
 - [resume](https://bahssanbeygi.github.io/resume/)
 - [SOP](https://github.com/bahssanbeygi/SOP) 
 - [javascript Certificate](https://bahssanbeygi.github.io/JScertificate/)
