@@ -27,7 +27,7 @@
 # تمرین ها
 1. [G-A03]
     1. [Edmonds-karp]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP),[Bubble Sortr](https://aparat.com/v/jk90Q)
     1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
